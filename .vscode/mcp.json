@@ -1,0 +1,10 @@
+{
+   
+    "servers": {
+        "my-mcp-server-8fd88ae1": {
+            "type": "stdio",
+            "command": "mcp-proxy",
+            "args": []
+        }
+    }
+  }
